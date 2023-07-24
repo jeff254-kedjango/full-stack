@@ -1,0 +1,21 @@
+{
+  "persons": [
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Eunice Kalman",
+      "number": "324-093568477",
+      "important": true,
+      "id": 7
+    },
+    {
+      "name": "Rapha Varane",
+      "number": "+330075611111",
+      "important": true,
+      "id": 8
+    }
+  ]
+}
